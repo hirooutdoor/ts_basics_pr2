@@ -1,2 +1,2 @@
-# ts_basics_pr2
+# ts_basics_pr
 Created with CodeSandbox
